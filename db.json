@@ -1,0 +1,86 @@
+{
+  "usersData": [
+    {
+      "id": 1,
+      "name": "z",
+      "email": "z",
+      "password": "z"
+    },
+    {
+      "name": "rose",
+      "email": "rose",
+      "password": "rose",
+      "id": 9
+    }
+  ],
+  "patientsData": [
+    {
+      "id": 1,
+      "age": 25,
+      "gender": "male",
+      "name": "Rajesh",
+      "medicine": [
+        {
+          "mName": "Allergen",
+          "mqty": "10mg"
+        },
+        {
+          "mName": "Patanjali",
+          "mqty": "20mg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "age": 28,
+      "gender": "female",
+      "name": "Rajni",
+      "medicine": [
+        {
+          "mName": "Allergen",
+          "mqty": "10mg"
+        },
+        {
+          "mName": "Patanjali",
+          "mqty": "20mg"
+        }
+      ]
+    },
+    {
+      "name": "Raman",
+      "age": "52",
+      "gender": "male",
+      "medicine": [
+        {
+          "mName": "ultron",
+          "mqty": "234"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Mohan",
+      "age": "62",
+      "gender": "male",
+      "medicine": [
+        {
+          "mName": "ff12",
+          "mqty": "234"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Priya",
+      "age": "26",
+      "gender": "female",
+      "medicine": [
+        {
+          "mName": "ultron",
+          "mqty": "234"
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
